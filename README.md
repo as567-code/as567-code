@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **MLOps End-To-End Machine Learning**
 
-- 💼 Portfolio [https://lucifer073.github.io//](https://lucifer073.github.io//)
+- 💼 Portfolio [https://adityaswaroop.vercel.app/](https://adityaswaroop.vercel.app/)
 
 - 📝 I regularly write articles on [https://blog.paperspace.com/tag/artificial-intelligence/](https://blog.paperspace.com/tag/artificial-intelligence/)
 
