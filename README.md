@@ -1,38 +1,115 @@
-<h1 align="center">Hi 👋, I'm Aditya Swaroop</h1>
-<h3 align="center">Passionate about AI&ML and Cloud</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=as567-code&label=Profile%20views&color=0e75b6&style=flat" alt="as567-code" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Swaroop&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Architect&descSize=16&descAlignY=52)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=as567-code" alt="as567-code" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-adityaswaroop.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityaswaroop.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-swaroop-b156171b4/)
+[![Blog](https://img.shields.io/badge/Tech%20Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blog.paperspace.com/tag/artificial-intelligence/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaswaroop23@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=as567-code&style=for-the-badge&color=0e75b6)](https://github.com/as567-code)
 
-- 🔭 I’m currently working on **BERT Text Classifier on Tensor Processing Unit**
+</div>
 
-- 🌱 I’m currently learning **TensorFlow,ScikitLearn,Pytorch,Kubernetess**
+## About Me
 
-- 🔭 I’m currently working on **Building an E-Commerce Clothing Classifier Model with Keras**
+```python
+class AdityaSwaroop:
+    def __init__(self):
+        self.education = "MS Computer Science @ University of Texas at Dallas"
+        self.focus     = ["AI/ML", "Full-Stack Development", "Cloud Architecture"]
+        self.research  = ["LLMs", "Generative AI", "MLOps"]
+        self.ask_me    = ["Machine Learning", "GenAI", "System Design", "AWS"]
 
-- 🔭 I’m currently working on **MLOps End-To-End Machine Learning**
+    def current_work(self):
+        return [
+            "BERT Text Classifier on Tensor Processing Unit",
+            "E-Commerce Clothing Classifier with Keras",
+            "End-to-End MLOps Pipeline",
+        ]
+```
 
-- 💼 Portfolio [https://adityaswaroop.vercel.app/](https://adityaswaroop.vercel.app/)
+## Tech Stack
 
-- 📝 I regularly write articles on [https://blog.paperspace.com/tag/artificial-intelligence/](https://blog.paperspace.com/tag/artificial-intelligence/)
+<div align="center">
 
-- 💬 Ask me about **LLM,GenAI**
+**AI / ML**
 
-- 📫 How to reach me **adityaswaroop23@gmail.com**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-swaroop-b156171b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-swaroop-b156171b4/" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya_7999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_7999" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@techgenix2430?si=4hxpkurbq7_vowtl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@techgenix2430?si=4hxpkurbq7_vowtl" height="30" width="40" /></a>
-</p>
+**Web & App**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=as567-code&show_icons=true&locale=en&layout=compact" alt="as567-code" /></p>
+**Cloud & DevOps**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=as567-code&show_icons=true&locale=en" alt="as567-code" /></p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=as567-code&" alt="as567-code" /></p>
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=as567-code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=as567-code&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as567-code&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+- Open source contributor | Accessibility advocate
+- Building ML pipelines from research to production
+- Writing about AI/ML on Paperspace Blog
+<!--END_SECTION:activity-->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=as567-code&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
+</div>
+
+## Publications
+
+<table>
+<tr>
+<td width="50%">
+
+**Quantum-Enhanced Tour & Travel Recommendation AI Chatbot**
+<br/>Published in IGI Global
+<br/><a href="https://www.igi-global.com/chapter/quantum-enhanced-tour-and-travel-recommendation-ai-chatbot-utilizing-bot-press/367059">Read Paper</a>
+
+</td>
+<td width="50%">
+
+**AI/ML Research Articles**
+<br/>Published on Paperspace Blog
+<br/><a href="https://blog.paperspace.com/tag/artificial-intelligence/">Read Articles</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <i>"The best way to predict the future is to build it."</i>
+  <br/><br/>
+  <a href="https://adityaswaroop.vercel.app/">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
